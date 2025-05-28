@@ -1,4 +1,4 @@
-
+postgresql://neondb_owner:npg_9HFLMcqvgU2N@ep-old-wind-aciluo42-pooler.sa-east-1.aws.neon.tech/neondb?sslmode=require
 -- Criação do Banco de Dados
 CREATE DATABASE sistema_vendas;
 
